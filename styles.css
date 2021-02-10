@@ -30,7 +30,6 @@ p{
 }
 
 .top-container {
-   text-align: center;
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
@@ -42,8 +41,7 @@ p{
 }
 
 .bottom-container {
-  
-   text-align: center;
+
 font-size: 20px;
 display:inline-block;
 text-decoration:none;
